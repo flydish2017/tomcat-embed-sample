@@ -54,7 +54,7 @@
                 <programs>
                     <program>
                         <mainClass>launch.Bootstrap</mainClass>
-                        <name>webapp</name>
+                        <name>startup</name>
                     </program>
                 </programs>
             </configuration>
